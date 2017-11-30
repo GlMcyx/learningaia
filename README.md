@@ -9,3 +9,5 @@
 
 >网易视频地址：https://163.lu/nPtn42
 
+
+this is my first study record about deep learning
